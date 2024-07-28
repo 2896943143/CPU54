@@ -1,0 +1,1 @@
+Dmemory和Imemory都使用到vivado自带的IP核
